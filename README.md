@@ -1,1 +1,2 @@
-# PRODIGY_SD_4
+# PRODIGY_SD_04
+Sudoku Solver using backtracking algorithm
